@@ -1,6 +1,5 @@
-#Management Wants a Word
+ **MANAGEMENT WANTS A WORD**
 ### TryHackMe — Windows Forensics & Cryptography
-
 [![Platform](https://img.shields.io/badge/Platform-TryHackMe-red)](https://tryhackme.com/)
 [![Category](https://img.shields.io/badge/Category-Forensics-blue)](https://tryhackme.com/)
 [![Difficulty](https://img.shields.io/badge/Difficulty-Hard-orange)](https://tryhackme.com/)
